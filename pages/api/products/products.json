@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Acuvue Moist",
+    "image": "/product1.jpg",
+    "brand": "Acuvue",
+    "type": "Contact Lenses",
+    "color": "Blue",
+    "price": "20"
+  },
+  {
+    "id": 2,
+    "name": "Everclear Elite",
+    "image": "/product1.jpg",
+    "brand": "Everclear",
+    "type": "Contact Lenses",
+    "color": "Blue",
+    "price": "12"
+  },
+  {
+    "id": 3,
+    "name": "Everclear ADM",
+    "image": "/product1.jpg",
+    "brand": "Everclear",
+    "type": "Silicone Hydrogel",
+    "color": "Red",
+    "price": "12"
+  },
+  {
+    "id": 4,
+    "name": "Acuvue Oasys",
+    "image": "/product1.jpg",
+    "brand": "Acuvue",
+    "type": "Silicone Hydrogel",
+    "color": "Red",
+    "price": "12"
+  },
+  {
+    "id": 5,
+    "name": "Acuvue Astigmatism",
+    "image": "/product1.jpg",
+    "brand": "Acuvue",
+    "type": "Silicone Hydrogel",
+    "color": "Blue",
+    "price": "12"
+  },
+  {
+    "id": 6,
+    "name": "Dailies Total",
+    "image": "/product1.jpg",
+    "brand": "Proclear",
+    "type": "Eye Drops",
+    "color": "Blue",
+    "price": "12"
+  },
+  {
+    "id": 7,
+    "name": "Acuvue Oasys",
+    "image": "/product1.jpg",
+    "brand": "Boots",
+    "type": "Coloured Contact Lenses",
+    "color": "Blue",
+    "price": "12"
+  },
+  {
+    "id": 8,
+    "name": "Oasys Astigmatism",
+    "brand": "Boots",
+    "type": "Coloured Contact Lenses",
+    "color": "Green",
+    "image": "/product1.jpg",
+    "price": "12"
+  }
+]

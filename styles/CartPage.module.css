@@ -1,0 +1,41 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: 3rem;
+}
+
+.table {
+  width: 1000px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  width: 2rem;
+  margin: 0 1rem;
+}
+
+.total {
+  margin: 2rem;
+  text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+
+  /* styles for browsers larger than 960px; */
+  .imageTd {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+
+  /* styles for browsers larger than 960px; */
+  .imageTd {
+    display: flex;
+    justify-content: center;
+  }
+}

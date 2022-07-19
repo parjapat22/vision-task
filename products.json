@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "everclear elite",
+      "image": "/product2.png",
+      "brand": "a",
+      "type": "t1",
+      "color": "blue",
+      "price": "20",
+      "category": "lens"
+    },
+    {
+      "id": 2,
+      "name": "dailies",
+      "image": "/product1.jpg",
+      "brand": "b",
+      "type": "t2",
+      "color": "blue",
+      "price": "12",
+      "category": "lens"
+    },
+    {
+      "id": 3,
+      "name": "acuvue",
+      "image": "/product1.jpg",
+      "brand": "a",
+      "type": "t2",
+      "color": "red",
+      "price": "12",
+      "category": "abc"
+    },
+    {
+      "id": 4,
+      "name": "everclear adm",
+      "image": "/product1.jpg",
+      "brand": "b",
+      "type": "t3",
+      "color": "red",
+      "price": "12",
+      "category": "lens"
+    },
+    {
+      "id": 5,
+      "name": "acuvue moist",
+      "image": "/product1.jpg",
+      "brand": "c",
+      "type": "t2",
+      "color": "blue",
+      "price": "12",
+      "category": "abc"
+    },
+    {
+      "id": 6,
+      "name": "dailies total",
+      "image": "/product1.jpg",
+      "brand": "d",
+      "type": "t3",
+      "color": "blue",
+      "price": "12",
+      "category": "mog"
+    },
+    {
+      "id": 7,
+      "name": "acuvue oasys",
+      "image": "/product1.jpg",
+      "brand": "c",
+      "type": "t4",
+      "color": "blue",
+      "price": "12",
+      "category": "abh"
+    },
+    {
+      "id": 8,
+      "name": "oasys total",
+      "brand": "e",
+      "type": "t5",
+      "color": "green",
+      "image": "/product1.jpg",
+      "price": "12",
+      "category": "mog"
+    }
+  ]
+}

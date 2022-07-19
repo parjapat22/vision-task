@@ -1,7 +1,17 @@
-import '../styles/globals.css'
+import { Provider } from "react-redux";
+import Navbar from "../components/Navbar";
+import store from "../redux/store";
+import "../styles/global.css";
 
-function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+const CartApp = ({ Component, pageProps }) => {
+  return (
+    <Provider store={store}>
+      <div>
+        <Navbar />
+        <Component {...pageProps} />
+      </div>
+    </Provider>
+  );
 }
 
-export default MyApp
+export default CartApp;
